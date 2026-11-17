@@ -1,0 +1,8 @@
+# Personal reading data, covers, config (may hold a VNDB API token) and backups
+data/
+__pycache__/
+*.pyc
+*.db
+*.db-wal
+*.db-shm
+*.lnk
